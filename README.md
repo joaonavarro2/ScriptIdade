@@ -4,9 +4,6 @@
       <img src="/imagens/git/bebe mulher.png" alt="Menu inicial">
  </div>
   <div> 
-      <img src="/imagens/git/mulher.png" alt="Menu inicial">
- </div>
-  <div> 
       <img src="/imagens/git/Jovem mulher.png" alt="Menu inicial">
  </div>
   <div> 
@@ -15,4 +12,9 @@
   <div> 
       <img src="/imagens/git/idoso.png" alt="Menu inicial">
  </div>
+ 
+ ## Tecnologias Usadas
+ * JavaScript
+ * Html
+ * Css
  
